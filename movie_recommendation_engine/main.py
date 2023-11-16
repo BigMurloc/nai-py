@@ -12,4 +12,4 @@ pearson_not_recommended_movies = find_not_recommended_movies_for_candidate(candi
 print("Recommended:")
 print(recommended_movies)
 print("Not recommended:")
-print(recommended_movies)
+print(pearson_not_recommended_movies)

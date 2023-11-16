@@ -1,3 +1,5 @@
+from math import sqrt
+
 import numpy as np
 from scipy.spatial.distance import euclidean
 from scipy.stats import pearsonr
@@ -37,17 +39,19 @@ def create_pearson_and_euclidean_correlations(chosen_candidate, candidates):
                 common_movies
             )
             if len(common_movies) > 2:
+                weight = sqrt(len(common_movies))
                 pearson_correlations.update(
-                    pearson_correlation_entry(other_candidate, candidate_scoring, other_scoring))
+                    pearson_correlation_entry(other_candidate, candidate_scoring, other_scoring, weight))
                 euclidean_correlations.update(
-                    euclidean_correlation_entry(other_candidate, candidate_scoring, other_scoring))
+                    euclidean_correlation_entry(other_candidate, candidate_scoring, other_scoring, weight))
 
     return pearson_correlations, euclidean_correlations
 
 
-def pearson_correlation_entry(candidate, candidate_scoring, other_scoring):
-    return {candidate.name: pearsonr(candidate_scoring, other_scoring)}
+def pearson_correlation_entry(candidate, candidate_scoring, other_scoring, weight):
+    correlation, _ = pearsonr(candidate_scoring, other_scoring)
+    return {candidate.name: correlation * weight}
 
 
-def euclidean_correlation_entry(candidate, candidate_scoring, other_candidate_scoring):
-    return {candidate.name: euclidean(candidate_scoring, other_candidate_scoring)}
+def euclidean_correlation_entry(candidate, candidate_scoring, other_candidate_scoring, weight):
+    return {candidate.name: euclidean(candidate_scoring, other_candidate_scoring) * weight}

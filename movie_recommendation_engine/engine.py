@@ -55,7 +55,9 @@ def create_not_recommended_movies(chosen_candidate, correlations):
     seen_by_chosen_candidates = chosen_candidate.recommendations.keys()
     candidate = find_candidate(min(correlations, key=correlations.get))
     for key in candidate.recommendations:
-        if not seen_by_chosen_candidates.__contains__(key) and float(candidate.recommendations[key]) > 7 and len(
-                movies) < 5:
+        if (
+                not seen_by_chosen_candidates.__contains__(key)
+                and float(candidate.recommendations[key]) > 7
+                and len(movies) < 5):
             movies.append(key)
     return movies

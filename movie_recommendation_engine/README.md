@@ -11,6 +11,10 @@ Available Algorithms:
 
 ## Examples
 
+![img_1.png](dp-pearson.png)
+![img_2.png](dp-euclidean.png)
+![img_3.png](mc-euclidean.png)
+
 # Authors
 - Dominik Pasymowski
 - Michał Cichowski

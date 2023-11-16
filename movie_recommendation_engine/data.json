@@ -1,0 +1,1856 @@
+{
+  "people": [
+    {
+      "name": "Paweł Czapiewski",
+      "recommendations": [
+        {
+          "movie": "Polowanie na Czerwony Październik",
+          "score": "10"
+        },
+        {
+          "movie": "Rick & Morty",
+          "score": "10"
+        },
+        {
+          "movie": "The Big Bang Theory",
+          "score": "8"
+        },
+        {
+          "movie": "Braveheart",
+          "score": "10"
+        },
+        {
+          "movie": "The Expanse",
+          "score": "7"
+        },
+        {
+          "movie": "Miasteczko South Park",
+          "score": "9"
+        },
+        {
+          "movie": "Kraina Lodu",
+          "score": "5"
+        },
+        {
+          "movie": "Dziennik Bridget Jones",
+          "score": "6"
+        },
+        {
+          "movie": "Kapitan Ameryka: Wojna bohaterów",
+          "score": "3"
+        },
+        {
+          "movie": "Avengers: Czas Ultrona",
+          "score": "2"
+        },
+        {
+          "movie": "Terminator 2",
+          "score": "9"
+        },
+        {
+          "movie": "Planeta Singli",
+          "score": "7"
+        },
+        {
+          "movie": "List do M.",
+          "score": "7"
+        },
+        {
+          "movie": "List do M. 2",
+          "score": "2"
+        },
+        {
+          "movie": "Forrest Gump",
+          "score": "10"
+        },
+        {
+          "movie": "Ex Machina",
+          "score": "10"
+        },
+        {
+          "movie": "Gran Torino",
+          "score": "9"
+        },
+        {
+          "movie": "Cicha Noc",
+          "score": "1"
+        },
+        {
+          "movie": "Battleship: Bitwa o Ziemię",
+          "score": "1"
+        },
+        {
+          "movie": "Narodziny Gwiazdy",
+          "score": "2"
+        },
+        {
+          "movie": "Kapitan Phillips",
+          "score": "9"
+        },
+        {
+          "movie": "Grand Budapest Hotel",
+          "score": "9"
+        },
+        {
+          "movie": "Wyjazd integracyjny",
+          "score": "1"
+        },
+        {
+          "movie": "John Wick",
+          "score": "7"
+        },
+        {
+          "movie": "Narcos",
+          "score": "10"
+        },
+        {
+          "movie": "Terminal",
+          "score": "8"
+        },
+        {
+          "movie": "Ona",
+          "score": "8"
+        },
+        {
+          "movie": "Whiplash",
+          "score": "10"
+        },
+        {
+          "movie": "Diabeł ubiera się u Prady",
+          "score": "9"
+        },
+        {
+          "movie": "La Casa De Papel",
+          "score": "8"
+        },
+        {
+          "movie": "Peaky Blinders",
+          "score": "9"
+        }
+      ]
+    },
+    {
+      "name": "Michał Cichowski",
+      "recommendations": [
+        {
+          "movie": "Casino",
+          "score": "9"
+        },
+        {
+          "movie": "Heat",
+          "score": "10"
+        },
+        {
+          "movie": "Niezwykły przypadek Brnjamina Buttona",
+          "score": "8"
+        },
+        {
+          "movie": "Ugotowany",
+          "score": "8"
+        },
+        {
+          "movie": "Wyspa tajemnic",
+          "score": "9.5"
+        },
+        {
+          "movie": "Donnie Brasco",
+          "score": "8"
+        },
+        {
+          "movie": "Limitless",
+          "score": "7"
+        },
+        {
+          "movie": "American Psycho",
+          "score": "6.5"
+        },
+        {
+          "movie": "Trylogia: Batmana",
+          "score": "8.5"
+        },
+        {
+          "movie": "Pan i pani Smith",
+          "score": "6"
+        },
+        {
+          "movie": "Se7en",
+          "score": "10"
+        },
+        {
+          "movie": "As Good As It Gets",
+          "score": "6.5"
+        },
+        {
+          "movie": "Inflitracja",
+          "score": "7.5"
+        },
+        {
+          "movie": "Choć goni nas czas",
+          "score": "8"
+        },
+        {
+          "movie": "Ojciec Chrzesny I",
+          "score": "8"
+        },
+        {
+          "movie": "Friday",
+          "score": "7"
+        },
+        {
+          "movie": "Super Zioło",
+          "score": "6"
+        }
+      ]
+    },
+    {
+      "name": "Zuzanna Bernacka",
+      "recommendations": [
+        {
+          "movie": "I Origins",
+          "score": "9"
+        },
+        {
+          "movie": "Miasteczko South Park",
+          "score": "9"
+        },
+        {
+          "movie": "Vikings",
+          "score": "7"
+        },
+        {
+          "movie": "Cast Away",
+          "score": "9"
+        },
+        {
+          "movie": "Kapitan Bomba",
+          "score": "2"
+        },
+        {
+          "movie": "Rubber",
+          "score": "2"
+        },
+        {
+          "movie": "Vicky Cristina Barcelona",
+          "score": "7"
+        },
+        {
+          "movie": "Oppenheimer",
+          "score": "9"
+        },
+        {
+          "movie": "Her",
+          "score": "8"
+        },
+        {
+          "movie": "Shirokuma Cafe",
+          "score": "8"
+        },
+        {
+          "movie": "Gladiator",
+          "score": "9"
+        },
+        {
+          "movie": "Inglorious Bastards",
+          "score": "8"
+        },
+        {
+          "movie": "The Lion King",
+          "score": "9"
+        },
+        {
+          "movie": "Wild",
+          "score": "7.5"
+        },
+        {
+          "movie": "Eyes Wide Shut",
+          "score": "7"
+        },
+        {
+          "movie": "Mr Robot",
+          "score": "8"
+        },
+        {
+          "movie": "American Pie",
+          "score": "3"
+        },
+        {
+          "movie": "Full Metal Jacket",
+          "score": "7.5"
+        },
+        {
+          "movie": "Memoirs of a Geisha",
+          "score": "8"
+        },
+        {
+          "movie": "Big Lebowski",
+          "score": "6.5"
+        },
+        {
+          "movie": "The good, the bad and the ugly",
+          "score": "8"
+        },
+        {
+          "movie": "Step Up",
+          "score": "4"
+        },
+        {
+          "movie": "Saw",
+          "score": "3"
+        },
+        {
+          "movie": "The Butler",
+          "score": "8"
+        },
+        {
+          "movie": "Loving Vincent",
+          "score": "8"
+        },
+        {
+          "movie": "Troy",
+          "score": "8"
+        },
+        {
+          "movie": "Some Like It Hot",
+          "score": "7"
+        },
+        {
+          "movie": "Welcome to the Rileys",
+          "score": "9"
+        },
+        {
+          "movie": "Nigdy w życiu",
+          "score": "7"
+        },
+        {
+          "movie": "Warcraft",
+          "score": "4"
+        },
+        {
+          "movie": "Top Gun",
+          "score": "8"
+        }
+      ]
+    },
+    {
+      "name": "Michał Siwek",
+      "recommendations": [
+        {
+          "movie": "Preacher",
+          "score": "10"
+        },
+        {
+          "movie": "The Walking Dead",
+          "score": "9"
+        },
+        {
+          "movie": "Sherlock",
+          "score": "10"
+        },
+        {
+          "movie": "Halloween",
+          "score": "7"
+        },
+        {
+          "movie": "Peaky Blinders",
+          "score": "10"
+        },
+        {
+          "movie": "The Office",
+          "score": "10"
+        },
+        {
+          "movie": "Firestarter",
+          "score": "3"
+        },
+        {
+          "movie": "Barbie",
+          "score": "8"
+        },
+        {
+          "movie": "Smile",
+          "score": "9"
+        },
+        {
+          "movie": "The Nun 2",
+          "score": "5"
+        },
+        {
+          "movie": "The Cuties",
+          "score": "1"
+        },
+        {
+          "movie": "Smoleńsk",
+          "score": "1"
+        },
+        {
+          "movie": "Better Call Saul",
+          "score": "9"
+        },
+        {
+          "movie": "Apokawixa",
+          "score": "6"
+        },
+        {
+          "movie": "The End Of The F**ing World",
+          "score": "8"
+        },
+        {
+          "movie": "Z Nation",
+          "score": "8"
+        },
+        {
+          "movie": "Joker",
+          "score": "10"
+        },
+        {
+          "movie": "Chłopaki z baraków",
+          "score": "10"
+        },
+        {
+          "movie": "Breaking Bad",
+          "score": "10"
+        },
+        {
+          "movie": "Dzień Świra",
+          "score": "9"
+        },
+        {
+          "movie": "Truman Show",
+          "score": "9"
+        },
+        {
+          "movie": "The Conjuring",
+          "score": "9"
+        },
+        {
+          "movie": "Into The Spider Verse",
+          "score": "10"
+        }
+      ]
+    },
+    {
+      "name": "Łukasz Dawidowski",
+      "recommendations": [
+        {
+          "movie": "Władca Pierścieni: Powrót króla",
+          "score": "10"
+        },
+        {
+          "movie": "Harry Potter i Komnata Tajemnic",
+          "score": "8"
+        },
+        {
+          "movie": "The Witcher",
+          "score": "3"
+        },
+        {
+          "movie": "Gwiezdne wojny: część III – Zemsta Sithów",
+          "score": "8"
+        },
+        {
+          "movie": "Blade Runner 2049",
+          "score": "9"
+        },
+        {
+          "movie": "Kraina Lodu",
+          "score": "6"
+        },
+        {
+          "movie": "Forrest Gump",
+          "score": "7"
+        },
+        {
+          "movie": "Starcie Tytanów ",
+          "score": "9"
+        },
+        {
+          "movie": "Gladiator",
+          "score": "8"
+        },
+        {
+          "movie": "Thor: Miłość i grom",
+          "score": "2"
+        },
+        {
+          "movie": "Kapitan Ameryka: Wojna bohaterów",
+          "score": "1"
+        },
+        {
+          "movie": "List do M.",
+          "score": "2"
+        },
+        {
+          "movie": "Predator",
+          "score": "8"
+        },
+        {
+          "movie": "Zielona mila",
+          "score": "10"
+        },
+        {
+          "movie": "Jestem legendą",
+          "score": "7"
+        },
+        {
+          "movie": "Matrix Zmartwychwstania",
+          "score": "3"
+        },
+        {
+          "movie": "Overlord",
+          "score": "9"
+        },
+        {
+          "movie": "Constantine",
+          "score": "8"
+        },
+        {
+          "movie": "Avengers: Czas Ultrona",
+          "score": "2"
+        },
+        {
+          "movie": "Rekinado",
+          "score": "1"
+        },
+        {
+          "movie": "Stranger Things",
+          "score": "4"
+        },
+        {
+          "movie": "Squid Game",
+          "score": "7"
+        },
+        {
+          "movie": "Pulp Fiction",
+          "score": "8"
+        },
+        {
+          "movie": "Pitbull. Niebezpieczne kobiety",
+          "score": "2"
+        },
+        {
+          "movie": "The Mandalorian",
+          "score": "8"
+        },
+        {
+          "movie": "Smoleńsk",
+          "score": "2"
+        },
+        {
+          "movie": "Troy",
+          "score": "7"
+        },
+        {
+          "movie": "Joker",
+          "score": "6"
+        },
+        {
+          "movie": "Król Lew",
+          "score": "8"
+        },
+        {
+          "movie": "Szeregowiec Ryan",
+          "score": "9"
+        },
+        {
+          "movie": "Dzień świra",
+          "score": "8"
+        }
+      ]
+    },
+    {
+      "name": "Daniel Wirzba",
+      "recommendations": [
+        {
+          "movie": "Peaky Blinders",
+          "score": "9"
+        },
+        {
+          "movie": "Interstellar",
+          "score": "10"
+        },
+        {
+          "movie": "War of the Worlds (2005)",
+          "score": "9"
+        },
+        {
+          "movie": "Tusk (2014)",
+          "score": "2"
+        },
+        {
+          "movie": "Cast Away",
+          "score": "9"
+        },
+        {
+          "movie": "The Last of Us",
+          "score": "6"
+        },
+        {
+          "movie": "The Witcher",
+          "score": "5"
+        },
+        {
+          "movie": "Dark",
+          "score": "8"
+        },
+        {
+          "movie": "Hellraiser (2022)",
+          "score": "6"
+        },
+        {
+          "movie": "Stranger Things",
+          "score": "8"
+        },
+        {
+          "movie": "Gladiator",
+          "score": "8"
+        },
+        {
+          "movie": "Pacific Rim (2013)",
+          "score": "2"
+        },
+        {
+          "movie": "Blade Runner",
+          "score": "7"
+        },
+        {
+          "movie": "Cyberpunk: Edgerunners",
+          "score": "8"
+        },
+        {
+          "movie": "Breaking Bad",
+          "score": "7"
+        },
+        {
+          "movie": "La La Land",
+          "score": "7"
+        },
+        {
+          "movie": "Lobster (2015)",
+          "score": "8"
+        },
+        {
+          "movie": "Fury",
+          "score": "7"
+        },
+        {
+          "movie": "Scott Pilgrim vs. the World",
+          "score": "7"
+        },
+        {
+          "movie": "Everything Everywhere All at Once",
+          "score": "8"
+        },
+        {
+          "movie": "IT",
+          "score": "4"
+        },
+        {
+          "movie": "Groundhog Day",
+          "score": "3"
+        },
+        {
+          "movie": "Kill Bill",
+          "score": "7"
+        },
+        {
+          "movie": "Sicario",
+          "score": "5"
+        },
+        {
+          "movie": "Gravity",
+          "score": "2"
+        },
+        {
+          "movie": "Alien: Covenant",
+          "score": "7"
+        },
+        {
+          "movie": "Catch Me If You Can",
+          "score": "8"
+        },
+        {
+          "movie": "The Wall",
+          "score": "8"
+        },
+        {
+          "movie": "Joker",
+          "score": "9"
+        },
+        {
+          "movie": "The Irishman",
+          "score": "6"
+        },
+        {
+          "movie": "Taboo",
+          "score": "8"
+        }
+      ]
+    },
+    {
+      "name": "Dominik Pasymowski",
+      "recommendations": [
+        {
+          "movie": "Rick & Morty",
+          "score": "8"
+        },
+        {
+          "movie": "Harry Potter",
+          "score": "10"
+        },
+        {
+          "movie": "Star Wars",
+          "score": "7"
+        },
+        {
+          "movie": "Kapitan Bomba",
+          "score": "2"
+        },
+        {
+          "movie": "Matrix",
+          "score": "9"
+        },
+        {
+          "movie": "Władca Pierścieni",
+          "score": "7"
+        },
+        {
+          "movie": "John Wick",
+          "score": "10"
+        },
+        {
+          "movie": "Irlandczyk",
+          "score": "8"
+        },
+        {
+          "movie": "Wall-E",
+          "score": "4"
+        },
+        {
+          "movie": "Kraina Lodu",
+          "score": "2"
+        },
+        {
+          "movie": "Gra o Tron",
+          "score": "4"
+        },
+        {
+          "movie": "Terminator",
+          "score": "6"
+        },
+        {
+          "movie": "Rambo",
+          "score": "5"
+        },
+        {
+          "movie": "Predator",
+          "score": "7"
+        },
+        {
+          "movie": "Pasja",
+          "score": "10"
+        },
+        {
+          "movie": "Interstellar",
+          "score": "10"
+        },
+        {
+          "movie": "Fantastyczne zwierzęta i jak je znaleźć",
+          "score": "8"
+        },
+        {
+          "movie": "Deadpool",
+          "score": "8"
+        },
+        {
+          "movie": "Spiderman",
+          "score": "8"
+        },
+        {
+          "movie": "Niesamowity Spider-Man",
+          "score": "5"
+        },
+        {
+          "movie": "Fight Club",
+          "score": "9"
+        },
+        {
+          "movie": "Projekt Adam",
+          "score": "3"
+        },
+        {
+          "movie": "Constantine",
+          "score": "6"
+        },
+        {
+          "movie": "Avatar ",
+          "score": "7"
+        },
+        {
+          "movie": "Lucy",
+          "score": "5"
+        },
+        {
+          "movie": "School Nurse Files",
+          "score": "1"
+        },
+        {
+          "movie": "Community",
+          "score": "7"
+        },
+        {
+          "movie": "How I Met Your Mother",
+          "score": "7"
+        },
+        {
+          "movie": "Pięćdziesiąt twarzy Greya ",
+          "score": "1"
+        },
+        {
+          "movie": "Nie patrz w górę",
+          "score": "4"
+        }
+      ]
+    },
+    {
+      "name": "Krzysztof Szymczyk",
+      "recommendations": [
+        {
+          "movie": "Limitless",
+          "score": "8"
+        },
+        {
+          "movie": "The Matrix",
+          "score": "9"
+        },
+        {
+          "movie": "The Witcher",
+          "score": "3"
+        },
+        {
+          "movie": "Interstellar",
+          "score": "7"
+        },
+        {
+          "movie": "Inception",
+          "score": "8"
+        },
+        {
+          "movie": "Oppenheimer",
+          "score": "8"
+        },
+        {
+          "movie": "Blade Runner 2049",
+          "score": "8"
+        },
+        {
+          "movie": "Attack On Titan",
+          "score": "9"
+        },
+        {
+          "movie": "Breaking Bad",
+          "score": "10"
+        },
+        {
+          "movie": "Constantine",
+          "score": "8"
+        },
+        {
+          "movie": "Parasite",
+          "score": "10"
+        },
+        {
+          "movie": "Brooklyn 9-9",
+          "score": "9"
+        },
+        {
+          "movie": "Cyberpunk Edgerunners",
+          "score": "9"
+        },
+        {
+          "movie": "21",
+          "score": "8"
+        },
+        {
+          "movie": "6 Underground",
+          "score": "8"
+        },
+        {
+          "movie": "Baby Driver",
+          "score": "6"
+        },
+        {
+          "movie": "Shaft",
+          "score": "7"
+        },
+        {
+          "movie": "Superbad",
+          "score": "3"
+        },
+        {
+          "movie": "50 Shades of grey",
+          "score": "1"
+        },
+        {
+          "movie": "The Gray Man",
+          "score": "8"
+        },
+        {
+          "movie": "Lucy",
+          "score": "7"
+        },
+        {
+          "movie": "Jack Reacher",
+          "score": "7"
+        },
+        {
+          "movie": "The Equalizer",
+          "score": "9"
+        },
+        {
+          "movie": "Inferno",
+          "score": "7"
+        },
+        {
+          "movie": "Adam Project",
+          "score": "7"
+        },
+        {
+          "movie": "Don't Look Up",
+          "score": "4"
+        },
+        {
+          "movie": "Spiderhead",
+          "score": "4"
+        },
+        {
+          "movie": "Glass Onion: A Knives Out Mystery",
+          "score": "8"
+        },
+        {
+          "movie": "Red Notice",
+          "score": "9"
+        },
+        {
+          "movie": "Love and Monsters",
+          "score": "4"
+        },
+        {
+          "movie": "Fight Club",
+          "score": "10"
+        }
+      ]
+    },
+    {
+      "name": "Adam Łuszcz",
+      "recommendations": [
+        {
+          "movie": "Pulp Fiction",
+          "score": "10"
+        },
+        {
+          "movie": "Botoks",
+          "score": "2"
+        },
+        {
+          "movie": "Chłopaki nie płaczą",
+          "score": "8"
+        },
+        {
+          "movie": "The Walking Dead",
+          "score": "5"
+        },
+        {
+          "movie": "Interstellar",
+          "score": "9"
+        },
+        {
+          "movie": "Rick & Morty",
+          "score": "8"
+        },
+        {
+          "movie": "The Witcher",
+          "score": "4"
+        },
+        {
+          "movie": "Forest Gump",
+          "score": "9"
+        },
+        {
+          "movie": "Incepcja",
+          "score": "10"
+        },
+        {
+          "movie": "Gra o Tron",
+          "score": "7"
+        },
+        {
+          "movie": "Kapitan Bomba",
+          "score": "1"
+        },
+        {
+          "movie": "The Office",
+          "score": "10"
+        },
+        {
+          "movie": "Shrek 2",
+          "score": "10"
+        },
+        {
+          "movie": "Oppenheimer",
+          "score": "8"
+        },
+        {
+          "movie": "The Boys",
+          "score": "7"
+        },
+        {
+          "movie": "The Matrix",
+          "score": "8"
+        },
+        {
+          "movie": "Mordercza Opona",
+          "score": "3"
+        },
+        {
+          "movie": "Deadpool",
+          "score": "7"
+        },
+        {
+          "movie": "John Wick",
+          "score": "6"
+        },
+        {
+          "movie": "Peaky Blinders",
+          "score": "8"
+        },
+        {
+          "movie": "Miłość, seks & pandemia",
+          "score": "1"
+        },
+        {
+          "movie": "Bad Boy",
+          "score": "1"
+        },
+        {
+          "movie": "Polityka",
+          "score": "1"
+        },
+        {
+          "movie": "Kobiety mafii",
+          "score": "1"
+        },
+        {
+          "movie": "Pitbull. Niebezpieczne kobiety",
+          "score": "1"
+        },
+        {
+          "movie": "Community",
+          "score": "8"
+        },
+        {
+          "movie": "Her",
+          "score": "7"
+        },
+        {
+          "movie": "Better Call Saul",
+          "score": "8"
+        },
+        {
+          "movie": "Avatar 2",
+          "score": "6"
+        },
+        {
+          "movie": "Breaking Bad",
+          "score": "10"
+        },
+        {
+          "movie": "Kapitan Ameryka: Wojna bohaterów",
+          "score": "5"
+        }
+      ]
+    },
+    {
+      "name": "Anna Rogala",
+      "recommendations": [
+        {
+          "movie": "Skazani na Shawhank",
+          "score": "7"
+        },
+        {
+          "movie": "Nietykalni",
+          "score": "5"
+        },
+        {
+          "movie": "Zielona mila",
+          "score": "7"
+        },
+        {
+          "movie": "Ojciec chrzestny",
+          "score": "10"
+        },
+        {
+          "movie": "Forrest Gump",
+          "score": "6"
+        },
+        {
+          "movie": "Lot nad kukułczym gniazdem",
+          "score": "10"
+        },
+        {
+          "movie": "Matrix",
+          "score": "10"
+        },
+        {
+          "movie": "Kraina Lodu",
+          "score": "2"
+        },
+        {
+          "movie": "Dziennik Bridget Jones",
+          "score": "10"
+        },
+        {
+          "movie": "Rick & Morty",
+          "score": "9"
+        },
+        {
+          "movie": "Terminator 2",
+          "score": "10"
+        },
+        {
+          "movie": "Dziewczyny z Dubaju",
+          "score": "1"
+        },
+        {
+          "movie": "Fight Club",
+          "score": "10"
+        },
+        {
+          "movie": "Se7en",
+          "score": "10"
+        },
+        {
+          "movie": "The Office",
+          "score": "10"
+        },
+        {
+          "movie": "Oppenheimer",
+          "score": "3"
+        },
+        {
+          "movie": "Irlandczyk",
+          "score": "4"
+        },
+        {
+          "movie": "The Last of Us",
+          "score": "8"
+        },
+        {
+          "movie": "Peaky Blinders",
+          "score": "6"
+        },
+        {
+          "movie": "The Witcher",
+          "score": "5"
+        },
+        {
+          "movie": "Deadpool",
+          "score": "4"
+        },
+        {
+          "movie": "Lobster",
+          "score": "3"
+        },
+        {
+          "movie": "Matrix Zmartwychwstanie",
+          "score": "3"
+        },
+        {
+          "movie": "Milczenie owiec",
+          "score": "9"
+        },
+        {
+          "movie": "Gladiator",
+          "score": "6"
+        },
+        {
+          "movie": "How I Met Your Mother",
+          "score": "5"
+        },
+        {
+          "movie": "Joker",
+          "score": "10"
+        },
+        {
+          "movie": "Nie patrz w górę",
+          "score": "6"
+        },
+        {
+          "movie": "Zodiak",
+          "score": "8"
+        },
+        {
+          "movie": "Wyspa Tajemnic",
+          "score": "10"
+        },
+        {
+          "movie": "Incepcja",
+          "score": "7"
+        }
+      ]
+    },
+    {
+      "name": "Michał Kalinowski",
+      "recommendations": [
+        {
+          "movie": "Interstellar",
+          "score": "9"
+        },
+        {
+          "movie": "Peaky Blinders ",
+          "score": "10"
+        },
+        {
+          "movie": "Dark",
+          "score": "10"
+        },
+        {
+          "movie": "The Expanse ",
+          "score": "7"
+        },
+        {
+          "movie": "Skazani na Shawshank ",
+          "score": "9"
+        },
+        {
+          "movie": "Tokyo Ghul",
+          "score": "8"
+        },
+        {
+          "movie": "Arcane",
+          "score": "9"
+        },
+        {
+          "movie": "Castelvania ",
+          "score": "8"
+        },
+        {
+          "movie": "Cyberpunk: Edge Runners ",
+          "score": "8"
+        },
+        {
+          "movie": "Better Call Saul",
+          "score": "6"
+        },
+        {
+          "movie": "Narcos",
+          "score": "7"
+        },
+        {
+          "movie": "Blade Runner 2049",
+          "score": "9"
+        },
+        {
+          "movie": "Lucifer ",
+          "score": "6"
+        },
+        {
+          "movie": "Efekt Motyla 3 ",
+          "score": "1"
+        },
+        {
+          "movie": "Oszukać Przeznaczenie 4",
+          "score": "2"
+        },
+        {
+          "movie": "World War Z",
+          "score": "5"
+        },
+        {
+          "movie": "Gangster ",
+          "score": "8"
+        },
+        {
+          "movie": "Legend",
+          "score": "8"
+        },
+        {
+          "movie": "American Gangster ",
+          "score": "8"
+        },
+        {
+          "movie": "Wrogowie Publiczni",
+          "score": "7"
+        },
+        {
+          "movie": "Constantine ",
+          "score": "7"
+        },
+        {
+          "movie": "Stranger Things ",
+          "score": "7"
+        },
+        {
+          "movie": "Squid Game ",
+          "score": "6"
+        },
+        {
+          "movie": "8 Mile",
+          "score": "6"
+        },
+        {
+          "movie": "Django",
+          "score": "7"
+        },
+        {
+          "movie": "Black Hawn Dawn",
+          "score": "7"
+        },
+        {
+          "movie": "Mindhunter ",
+          "score": "8"
+        },
+        {
+          "movie": "La Casa De Papel",
+          "score": "8"
+        },
+        {
+          "movie": "Fight Club ",
+          "score": "8"
+        },
+        {
+          "movie": "The Mandalorian ",
+          "score": "9"
+        },
+        {
+          "movie": "Zodiac ",
+          "score": "7"
+        }
+      ]
+    },
+    {
+      "name": "Kajetan Welc",
+      "recommendations": [
+        {
+          "movie": "Forest Gump",
+          "score": "10"
+        },
+        {
+          "movie": "Władca Pierścieni",
+          "score": "7"
+        },
+        {
+          "movie": "Hobbit",
+          "score": "8"
+        },
+        {
+          "movie": "Star Wars",
+          "score": "4"
+        },
+        {
+          "movie": "Atlas chmur",
+          "score": "10"
+        },
+        {
+          "movie": "Szeregowiec Ryan",
+          "score": "7"
+        },
+        {
+          "movie": "Harry Potter",
+          "score": "2"
+        },
+        {
+          "movie": "Incepcja",
+          "score": "9"
+        },
+        {
+          "movie": "Pasja",
+          "score": "10"
+        },
+        {
+          "movie": "The Office",
+          "score": "3"
+        },
+        {
+          "movie": "Gladiator",
+          "score": "9"
+        },
+        {
+          "movie": "Różowa pantera",
+          "score": "8"
+        },
+        {
+          "movie": "Jurassic Park",
+          "score": "6"
+        },
+        {
+          "movie": "I, Robot",
+          "score": "5"
+        },
+        {
+          "movie": "World War Z",
+          "score": "2"
+        },
+        {
+          "movie": "Wróg u bram",
+          "score": "1"
+        },
+        {
+          "movie": "Wróg publiczny",
+          "score": "7"
+        },
+        {
+          "movie": "Cast Away",
+          "score": "9"
+        },
+        {
+          "movie": "The Shawshank Redemption",
+          "score": "9"
+        },
+        {
+          "movie": "Gravity",
+          "score": "3"
+        },
+        {
+          "movie": "Django",
+          "score": "7"
+        }
+      ]
+    },
+    {
+      "name": "Aleksander Misztal",
+      "recommendations": [
+        {
+          "movie": "Kapitan Bomba",
+          "score": "10"
+        },
+        {
+          "movie": "The Manifest",
+          "score": "1"
+        },
+        {
+          "movie": "Chłopaki nie płaczą ",
+          "score": "9"
+        },
+        {
+          "movie": "The Witcher",
+          "score": "3"
+        },
+        {
+          "movie": "House of cards ",
+          "score": "10"
+        },
+        {
+          "movie": "Avatar 2",
+          "score": "3"
+        },
+        {
+          "movie": "Oppenheimer",
+          "score": "9"
+        },
+        {
+          "movie": "365 dni",
+          "score": "1"
+        },
+        {
+          "movie": "Lucifer",
+          "score": "7"
+        },
+        {
+          "movie": "Breaking bad",
+          "score": "7"
+        },
+        {
+          "movie": "Wiek Adaline",
+          "score": "4"
+        },
+        {
+          "movie": "Pacific Rim",
+          "score": "10"
+        },
+        {
+          "movie": "Pacific Rim: Uprising",
+          "score": "2"
+        },
+        {
+          "movie": "Sherlock Holmes (2009)",
+          "score": "7"
+        },
+        {
+          "movie": "Sherlock Holmes: A Game of Shadows",
+          "score": "10"
+        },
+        {
+          "movie": "Bękarty wojny",
+          "score": "9"
+        },
+        {
+          "movie": "The boys",
+          "score": "8"
+        },
+        {
+          "movie": "Chłopaki z baraków",
+          "score": "10"
+        },
+        {
+          "movie": "The last of us ",
+          "score": "5"
+        },
+        {
+          "movie": "Ogniem i mieczem",
+          "score": "10"
+        },
+        {
+          "movie": "Extraction",
+          "score": "9"
+        },
+        {
+          "movie": "Extraction 2",
+          "score": "7"
+        },
+        {
+          "movie": "Secret invasion",
+          "score": "2"
+        },
+        {
+          "movie": "Star Wars Rebels",
+          "score": "1"
+        },
+        {
+          "movie": "Star Wars the Clone Wars",
+          "score": "10"
+        },
+        {
+          "movie": "Family Guy",
+          "score": "8"
+        },
+        {
+          "movie": "Prince of persia",
+          "score": "7"
+        },
+        {
+          "movie": "Obi-Wan Kenobi",
+          "score": "9"
+        },
+        {
+          "movie": "Ahsoka",
+          "score": "8"
+        },
+        {
+          "movie": "Andor",
+          "score": "9"
+        },
+        {
+          "movie": "The Mandalorian",
+          "score": "9"
+        }
+      ]
+    },
+    {
+      "name": "Maciej Zagórski",
+      "recommendations": [
+        {
+          "movie": "The Shawshank Redemption",
+          "score": "8"
+        },
+        {
+          "movie": "Casablanca",
+          "score": "8"
+        },
+        {
+          "movie": "Pulp Fiction",
+          "score": "9"
+        },
+        {
+          "movie": "The Godfather",
+          "score": "9"
+        },
+        {
+          "movie": "The Dark Knight",
+          "score": "7"
+        },
+        {
+          "movie": "Forrest Gump",
+          "score": "8"
+        },
+        {
+          "movie": "Schindler's List",
+          "score": "8"
+        },
+        {
+          "movie": "Once Upon a Time in the West",
+          "score": "10"
+        },
+        {
+          "movie": "Star Wars: Episode IV - A New Hope",
+          "score": "9"
+        },
+        {
+          "movie": "Parasite",
+          "score": "8"
+        },
+        {
+          "movie": "The Matrix",
+          "score": "7"
+        },
+        {
+          "movie": "The Grand Budapest Hotel",
+          "score": "6"
+        },
+        {
+          "movie": "Titanic",
+          "score": "7"
+        },
+        {
+          "movie": "Jurassic Park",
+          "score": "9"
+        },
+        {
+          "movie": "The Big Lebowski",
+          "score": "8"
+        },
+        {
+          "movie": "TheGood, the Bad and the Ugly",
+          "score": "9"
+        },
+        {
+          "movie": "Raiders of the Lost Ark",
+          "score": "8"
+        },
+        {
+          "movie": "La La Land",
+          "score": "7"
+        },
+        {
+          "movie": "The Silence of the Lambs",
+          "score": "8"
+        },
+        {
+          "movie": "Mad Max: Fury Road",
+          "score": "8"
+        },
+        {
+          "movie": "Psycho",
+          "score": "9"
+        },
+        {
+          "movie": "Prometheus",
+          "score": "4"
+        },
+        {
+          "movie": "Battleship",
+          "score": "2"
+        },
+        {
+          "movie": "Alien: Covenant",
+          "score": "5"
+        },
+        {
+          "movie": "Once Upon a Time in Hollywood",
+          "score": "7"
+        },
+        {
+          "movie": "Midsommar",
+          "score": "2"
+        },
+        {
+          "movie": "Wyjazd integracyjny",
+          "score": "1"
+        },
+        {
+          "movie": "Cicha noc",
+          "score": "6"
+        },
+        {
+          "movie": "Stranger Things",
+          "score": "6"
+        },
+        {
+          "movie": "Saw",
+          "score": "3"
+        },
+        {
+          "movie": "Blade Runner",
+          "score": "9"
+        }
+      ]
+    },
+    {
+      "name": "Maciej Leciejewski",
+      "recommendations": [
+        {
+          "movie": "Sons of Anarchy",
+          "score": "10"
+        },
+        {
+          "movie": "Banshee",
+          "score": "10"
+        },
+        {
+          "movie": "Game of Thrones",
+          "score": "9"
+        },
+        {
+          "movie": "Vikings",
+          "score": "9"
+        },
+        {
+          "movie": "Peaky Blinders",
+          "score": "9"
+        },
+        {
+          "movie": "Spartacus",
+          "score": "9"
+        },
+        {
+          "movie": "Punisher",
+          "score": "8"
+        },
+        {
+          "movie": "Cormoran Strike",
+          "score": "7"
+        },
+        {
+          "movie": "Babilon Berlin",
+          "score": "7"
+        },
+        {
+          "movie": "Marco Polo",
+          "score": "8"
+        },
+        {
+          "movie": "The Witcher",
+          "score": "8"
+        },
+        {
+          "movie": "The Pacific",
+          "score": "9"
+        },
+        {
+          "movie": "Succession",
+          "score": "7"
+        },
+        {
+          "movie": "Snowfall",
+          "score": "8"
+        },
+        {
+          "movie": "Deadly Class",
+          "score": "7"
+        },
+        {
+          "movie": "Krypton",
+          "score": "7"
+        },
+        {
+          "movie": "Ray Donovan",
+          "score": "8"
+        },
+        {
+          "movie": "Mayans M.C.",
+          "score": "8"
+        },
+        {
+          "movie": "Stranger Things",
+          "score": "8"
+        },
+        {
+          "movie": "The Good Doctor",
+          "score": "7"
+        },
+        {
+          "movie": "Dr House",
+          "score": "6"
+        },
+        {
+          "movie": "Californication",
+          "score": "7"
+        },
+        {
+          "movie": "Orphan Black",
+          "score": "9"
+        },
+        {
+          "movie": "Black Sails",
+          "score": "9"
+        },
+        {
+          "movie": "Gomorra",
+          "score": "9"
+        }
+      ]
+    },
+    {
+      "name": "Szymon Kuczyński",
+      "recommendations": [
+        {
+          "movie": "The Avengers",
+          "score": "8"
+        },
+        {
+          "movie": "The Godfather",
+          "score": "10"
+        },
+        {
+          "movie": "The Lord of the Rings: The Fellowship of the Ring",
+          "score": "9"
+        },
+        {
+          "movie": "Forrest Gump",
+          "score": "6"
+        },
+        {
+          "movie": "Inception",
+          "score": "9"
+        },
+        {
+          "movie": "The Matrix",
+          "score": "8"
+        },
+        {
+          "movie": "Interstellar",
+          "score": "7"
+        },
+        {
+          "movie": "Snowpiercer",
+          "score": "7"
+        },
+        {
+          "movie": "Return of the Jedi",
+          "score": "8"
+        },
+        {
+          "movie": "Django Unchained",
+          "score": "8"
+        },
+        {
+          "movie": "Shrek",
+          "score": "9"
+        },
+        {
+          "movie": "Pacific Rim",
+          "score": "7"
+        },
+        {
+          "movie": "Titanic",
+          "score": "8"
+        },
+        {
+          "movie": "Jurassic Park",
+          "score": "7"
+        },
+        {
+          "movie": "I, Robot",
+          "score": "5"
+        },
+        {
+          "movie": "Legend",
+          "score": "7"
+        },
+        {
+          "movie": "Raiders of the Lost Ark",
+          "score": "8"
+        }
+      ]
+    }
+  ]
+}

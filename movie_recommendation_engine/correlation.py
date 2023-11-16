@@ -39,19 +39,18 @@ def create_pearson_and_euclidean_correlations(chosen_candidate, candidates):
                 common_movies
             )
             if len(common_movies) > 2:
-                weight = sqrt(len(common_movies))
                 pearson_correlations.update(
-                    pearson_correlation_entry(other_candidate, candidate_scoring, other_scoring, weight))
+                    pearson_correlation_entry(other_candidate, candidate_scoring, other_scoring))
                 euclidean_correlations.update(
-                    euclidean_correlation_entry(other_candidate, candidate_scoring, other_scoring, weight))
+                    euclidean_correlation_entry(other_candidate, candidate_scoring, other_scoring))
 
     return pearson_correlations, euclidean_correlations
 
 
-def pearson_correlation_entry(candidate, candidate_scoring, other_scoring, weight):
+def pearson_correlation_entry(candidate, candidate_scoring, other_scoring):
     correlation, _ = pearsonr(candidate_scoring, other_scoring)
-    return {candidate.name: correlation * weight}
+    return {candidate.name: correlation}
 
 
-def euclidean_correlation_entry(candidate, candidate_scoring, other_candidate_scoring, weight):
-    return {candidate.name: euclidean(candidate_scoring, other_candidate_scoring) * weight}
+def euclidean_correlation_entry(candidate, candidate_scoring, other_candidate_scoring):
+    return {candidate.name: euclidean(candidate_scoring, other_candidate_scoring)}

@@ -1,31 +1,21 @@
 import json
 from dataclasses import dataclass
-from typing import List
-
-
-@dataclass
-class Recommendation:
-    """Class for keeping track of movie and its score"""
-    movie: str
-    score: float
-
-    @staticmethod
-    def from_json_data(recommendation):
-        return Recommendation(recommendation['movie'], recommendation['score'])
+from typing import Dict
 
 
 @dataclass
 class Candidate:
     """Class for keeping track of a candidate with his movie recommendations"""
     name: str
-    recommendations: List[Recommendation]
+    recommendations: Dict[str, float]
 
     @staticmethod
     def from_json_data(candidate):
         name = candidate['name']
-        recommendations = []
+        recommendations = {}
         for recommendation in candidate['recommendations']:
-            recommendations.append(Recommendation.from_json_data(recommendation))
+            recommendations.update({recommendation['movie']: recommendation['score']})
+
         return Candidate(name, recommendations)
 
 

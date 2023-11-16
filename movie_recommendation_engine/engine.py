@@ -23,7 +23,39 @@ def find_recommended_movies_for_candidate(name):
     chosen_candidate = find_candidate(name)
     pearson_correlations, euclidean_correlations = create_pearson_and_euclidean_correlations(chosen_candidate,
                                                                                              candidates)
-    print("Pearson")
-    print_correlations(pearson_correlations)
-    print("Euclidean")
-    print_correlations(euclidean_correlations)
+    pearson_based_recommendations = create_recommended_movies(chosen_candidate, pearson_correlations)
+    euclidean_based_recommendations = create_recommended_movies(chosen_candidate, euclidean_correlations)
+
+    return pearson_based_recommendations, euclidean_based_recommendations
+
+
+def find_not_recommended_movies_for_candidate(name):
+    chosen_candidate = find_candidate(name)
+    pearson_correlations, euclidean_correlations = create_pearson_and_euclidean_correlations(chosen_candidate,
+                                                                                             candidates)
+    pearson_based_recommendations = create_not_recommended_movies(chosen_candidate, pearson_correlations)
+    euclidean_based_recommendations = create_not_recommended_movies(chosen_candidate, euclidean_correlations)
+
+    return pearson_based_recommendations, euclidean_based_recommendations
+
+
+def create_recommended_movies(chosen_candidate, correlations):
+    movies = []
+    seen_by_chosen_candidates = chosen_candidate.recommendations.keys()
+    candidate = find_candidate(max(correlations, key=correlations.get))
+    for key in candidate.recommendations:
+        if not seen_by_chosen_candidates.__contains__(key) and float(candidate.recommendations[key]) > 7 and len(
+                movies) < 5:
+            movies.append(key)
+    return movies
+
+
+def create_not_recommended_movies(chosen_candidate, correlations):
+    movies = []
+    seen_by_chosen_candidates = chosen_candidate.recommendations.keys()
+    candidate = find_candidate(min(correlations, key=correlations.get))
+    for key in candidate.recommendations:
+        if not seen_by_chosen_candidates.__contains__(key) and float(candidate.recommendations[key]) > 7 and len(
+                movies) < 5:
+            movies.append(key)
+    return movies

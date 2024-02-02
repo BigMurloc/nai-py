@@ -17,7 +17,7 @@ model_600k = A2C.load(a2c_path + '-600k', env)
 #A2C - 900k (17.3, 8.1)
 model_900k = A2C.load(a2c_path + '-900k', env)
 
-result = evaluate_policy(model_900k, env, n_eval_episodes=10, render=True)
+result = evaluate_policy(model_100k, env, n_eval_episodes=10, render=True)
 
 print(result)
 
